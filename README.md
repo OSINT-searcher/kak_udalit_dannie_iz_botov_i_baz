@@ -1,0 +1,1 @@
+# kak_udalit_dannie_iz_botov_i_baz
