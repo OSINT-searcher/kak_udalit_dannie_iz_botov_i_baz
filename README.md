@@ -49,7 +49,7 @@
 Список основных ссылок для удаления персональных данных из соцсетей:
 * [🌐 Удаление персональных данных из ВКонтакте](https://vk.com/faq22728)
 * [🌐 Удаление персональных данных из Одноклассники](https://ok.ru/dk?st.cmd=helpFaq&cmd=PopLayer&st.layer.cmd=PopLayerHelpFeedback&st.layer.origin=FAQ&st.layer.categorynew=%20COMPLAINT&st.layer.subcategory=COPYRIGHT&st.layer.anonymForm=false&st.layer.dCategory=on&st.layer.dSubject=on)
-* 🌐 Удаление персональных данных из Телеграм - письмо с информацией на **abuse@telegram.org**
+* Удаление персональных данных из Телеграм - письмо с информацией на **abuse@telegram.org**
 * [🌐 Удаление персональных данных из WhatsApp](https://www.whatsapp.com/contact/forms/915483389072145/)
 * [🌐 Удаление персональных данных из Discord](https://support.discord.com/hc/ru/requests/new?ticket_form_id=360000029731)
 * [🌐 Удаление персональных данных из TikTok](https://www.tiktok.com/legal/report/privacy)
