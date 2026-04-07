@@ -35,7 +35,7 @@
 
 Перед тем как начать процедуру, вам нужно собрать список всех мест, где могла остаться информация:
 * Поисковики (Google, Яндекс, Bing)
-* Соцсети и мессенджеры
+* Соцсети и мессенджеры (например, [ТикТок](https://github.com/OSINT-searcher/OSINT_i_probiv_TikTok), [Дискорд](https://github.com/OSINT-searcher/OSINT_i_probiv_Discord), [Линкедин](https://github.com/OSINT-searcher/OSINT_i_probiv_Linkedin) и даже [МойМир](https://github.com/OSINT-searcher/OSINT_i_probiv_MoyMir))
 * Сайты с утечками данных
 * Агрегаторы баз
 * Форумы, объявления, маркетплейсы
